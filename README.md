@@ -61,7 +61,7 @@ For this data warehouse project we need to accomplish the following:
 
 •	The solution files:
 
-      o	DWH DDL statements (format . sql)
+      o	DWH DDL statements (format .sql)
       
       o	ETL SSIS project
       
