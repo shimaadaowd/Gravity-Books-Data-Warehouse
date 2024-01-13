@@ -60,9 +60,13 @@ For this data warehouse project we need to accomplish the following:
 • Screenshots for the output.
 
 •	The solution files:
+
       o	DWH DDL statements (format . sql)
+      
       o	ETL SSIS project
+      
       o	OLAP SSAS project
+      
       o	Mapping Sheet
 
 
