@@ -1,9 +1,10 @@
 # Gravity Books Data Warehouse
 
 Gravity Bookstore is a database for a fictional bookstore called "Gravity Books" that captures information about books, customers, and sales.
+
 ![image](https://github.com/shimaadaowd/Gravity-Books-Data-Warehouse/assets/81235048/c1977171-9efb-4f41-8579-65352018620c)
 
-
+The objective of this project is to create a Data Warehouse for a fictional bookstore called: "Gravity Books", and design an SSIS project to populate the data from ‘gravity_books’ transactional database into the new target data warehouse ‘gravity_books_dwh’.
 
 # Tables description:
 
@@ -59,7 +60,7 @@ For this data warehouse project we need to accomplish the following:
 
 • Screenshots for the output.
 
-•	The solution files:
+• The solution files:
 
       o	DWH DDL statements (format .sql)
       
@@ -68,5 +69,12 @@ For this data warehouse project we need to accomplish the following:
       o	OLAP SSAS project
       
       o	Mapping Sheet
+
+
+# Reference:
+
+The project's database is originally downloaded from this link:<br>
+https://github.com/bbrumm/databasestar/tree/main/sample_databases/sample_db_gravity/gravity_sqlserver
+
 
 
